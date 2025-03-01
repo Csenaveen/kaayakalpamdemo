@@ -415,7 +415,7 @@ font-size: 12em;
         /* box-shadow: 0 4px  rgba(0, 0, 0, 0.2), 0 0px 20px rgba(0, 0, 0, 0.19); */
     }
     .about_head{
-        font-size: 4em;
+        font-size: 3.8em;
     }
     .offerings-title {
         font-size: 4em;
@@ -425,7 +425,7 @@ font-size: 12em;
         font-size: 3.3em;
     }
     .email-input {
-        width: 70%;
+        width: 50%;
     }
 
 }
